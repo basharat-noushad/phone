@@ -139,7 +139,6 @@ const Footer = () => {
                                             </svg>
                                         </div>
                                         <div className="link">
-                                            <a href="mailto:contact.tech@gmail.com">info@artynode.com</a> <br/>
                                             <a href="mailto:info@Phonelinkx.com">info@Phonelinkx.com</a>
                                         </div>
                                     </div>
